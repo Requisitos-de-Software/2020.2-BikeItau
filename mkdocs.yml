@@ -1,0 +1,34 @@
+site_name: Bike Itaú / tembice.
+
+theme: 
+  name: material
+  palette:
+    primary: orange
+  language: pt 
+  icon:
+    logo: material/bicycle
+  features:
+    - navigation.tracking
+    #- navigation.tabs
+    #- navigation.sections
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Requisitos-de-Software/2020.2-BikeItau
+  repo_url: https://github.com/Requisitos-de-Software/2020.2-BikeItau
+
+name: ci
+on:
+  push:
+    branches:
+      - master
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material
+      - run: mkdocs gh-deploy --force
