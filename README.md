@@ -1,6 +1,6 @@
 # Grupo 2 - Bike Itaú/ tembici.
 
-![logo](img/logo.png)
+![logo](docs/img/logo.png)
 
 Repositório destinado ao projeto de Requisitos de Software do Grupo 2 
 
@@ -9,7 +9,6 @@ Repositório destinado ao projeto de Requisitos de Software do Grupo 2
 | Nome | Matrícula | GitHub | Email |
 | --- | --- | --- | --- |
 | Felipe Agustini | xxxxxxxxx | Fealps | xxxxxxxxx |
-| Gabriel Lopes Ramalho | xxxxxxxxx | BielLopes2000 | xxxxxxxxx |
 | Marcos Lima Raimundo | 180145231 | [MarcosFloresta](https://github.com/MarcosFloresta) | floresta.marcos@outlook.com |
 | Matheus Clemente | 180042817 | [matheusclemente](https://github.com/matheusclemente) | matheus.klementt@gmail.com|
 | Tomás Veloso | 180138596 | [tomasvelos0](https://github.com/tomasvelos0) | tomasvelozo@hotmail.com |
