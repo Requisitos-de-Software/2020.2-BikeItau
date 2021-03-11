@@ -5,6 +5,9 @@ nav:
   - Apresentações : apresentacoes.md
   - Planejamneto: ''
   - Pré-rastreabilidade: ''
+  - Elicitação:
+    - personas.md
+    - brainstorming.md
 docs_dir: docs/
 
 theme: 
