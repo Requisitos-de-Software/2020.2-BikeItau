@@ -11,6 +11,8 @@ nav:
     - Introspecção: elicitacao/introspeccao.md
     - Personas: elicitacao/personas.md
     - Storytelling: elicitacao/storytelling.md
+  - Priorização:
+    - MoSCoW: priorizacao/moscow.md
   - Modelagem:
     - Caso de Uso: modelagem/casodeuso.md
 docs_dir: docs/
