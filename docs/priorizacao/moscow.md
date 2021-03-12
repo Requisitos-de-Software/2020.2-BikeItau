@@ -29,6 +29,9 @@ http://www.matera.com/blog/post/priorizacao-de-requisitos
 https://rockcontent.com/br/blog/metodo-moscow/
 
 ## Histórico de Revisões
-| 10/03/2021 | 1.0 | Criação do documento | [Marcos Raimundo](https://www.github.com/MarcosFloresta) | 
+
+| Data | Versão | Descrição | Autor(es) |
+| --- | --- | --- | --- |
+| 11/03/2021 | 1.0 | Criação do documento e adição de personas | [Marcos Raimundo](https://www.github.com/MarcosFloresta/) |
 
  
