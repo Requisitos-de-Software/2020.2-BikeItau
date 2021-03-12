@@ -4,9 +4,14 @@ nav:
   - Home: index.md
   - Apresentações : apresentacoes.md
   - Planejamneto: ''
-  - Pré-rastreabilidade:
-    - Caso de Uso: Pre-rastreabilidade/casodeuso.md
-    - Storytelling: Pre-rastreabilidade/storytelling.md
+  - Pré-rastreabilidade: ''
+  - Elicitação:
+    - Brainstorming: elicitacao/brainstorming.md
+    - Introspecção: elicitacao/introspeccao.md
+    - Personas: elicitacao/personas.md
+    - Storytelling: elicitacao/storytelling.md
+  - Modelagem:
+    - Caso de Uso: modelagem/casodeuso.md
 docs_dir: docs/
 
 theme: 
