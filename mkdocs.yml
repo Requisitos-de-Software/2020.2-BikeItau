@@ -4,7 +4,8 @@ nav:
   - Home: index.md
   - Apresentações : apresentacoes.md
   - Planejamneto: ''
-  - Pré-rastreabilidade: ''
+  - Pré-rastreabilidade:
+    - Rich Picture: Pre-rastreabilidade/richpicture.md
   - Elicitação:
     - Brainstorming: elicitacao/brainstorming.md
     - Introspecção: elicitacao/introspeccao.md

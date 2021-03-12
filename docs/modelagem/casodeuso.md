@@ -126,10 +126,10 @@
 
 #### 2.2. Diagrama de Caso de Uso - Usuário Novo
 
-[![Diagrama_de_caso_de_uso_usuario_novol](../img/USUsuario_novo.png)](../img/USCasoGeral.png)
+[![Diagrama_de_caso_de_uso_usuario_novol](../img/USUsuario_novo.png)](../img/USUsuario_novo.png)
 
 ### # 2.3. Diagrama de Caso de Uso - Usuário Fidelizado
 
-[![Diagrama_de_caso_de_uso_usuario_fidelizado](../img/USUsuario_fidelizado.png)](../img/USCasoGeral.png)
+[![Diagrama_de_caso_de_uso_usuario_fidelizado](../img/USUsuario_fidelizado.png)](../img/USUsuario_fidelizado.png)
 
 ## 3. Referências
