@@ -12,27 +12,27 @@ Para o projeto, decidimos criar personas com objetivos e dificuldades baseadas e
 
 ### Persona 1
 
-![personas1](img/personas/persona1.png)
+![personas1](../img/personas/persona1.png)
 
 ### Persona 2
 
-![persona2](img/personas/persona2.png)
+![persona2](../img/personas/persona2.png)
 
 ### Persona 3
 
-![persona3](img/personas/persona3.png)
+![persona3](../img/personas/persona3.png)
 
 ### Persona 4
 
-![persona4](img/personas/persona4.png)
+![persona4](../img/personas/persona4.png)
 
 ### Persona 5
 
-![persona5](img/personas/persona5.png)
+![persona5](../img/personas/persona5.png)
 
 ### Persona 6
 
-![persona6](img/personas/persona6.png)
+![persona6](../img/personas/persona6.png)
 
 
 ## Referências
