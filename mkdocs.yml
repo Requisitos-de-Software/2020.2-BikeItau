@@ -4,7 +4,9 @@ nav:
   - Home: index.md
   - Apresentações : apresentacoes.md
   - Planejamneto: ''
-  - Pré-rastreabilidade: ''
+  - Pré-rastreabilidade:
+    - Caso de Uso: Pre-rastreabilidade/casodeuso.md
+    - Storytelling: Pre-rastreabilidade/storytelling.md
 docs_dir: docs/
 
 theme: 
