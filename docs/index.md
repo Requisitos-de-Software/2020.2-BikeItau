@@ -1,6 +1,10 @@
 # Grupo 2 - Bike Itaú/ tembici.
 
-![logo](docs/../img/logo.png)
+<p align="center">
+  <img src="docs/../img/logo.png" alt="logo" />
+</p>
+
+<!-- ![logo](docs/../img/logo.png) -->
 
 Repositório destinado ao projeto de Requisitos de Software do Grupo 2 
 
