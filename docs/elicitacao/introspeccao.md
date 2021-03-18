@@ -1,6 +1,8 @@
-# Instrospecção 
+# Instrospecção
 
-Durante esta técnica de elicitação, tentamos nos imaginar no lugar do um usuário para identificar quais as necessidades que o projeto deve possuir. 
+<p align = "justify">Durante esta técnica de elicitação, tentamos nos imaginar no lugar do um usuário para identificar quais as necessidades que o projeto deve possuir.</p>
+<br/>
+
 
 ## Requisitos 
 
@@ -24,4 +26,5 @@ Durante esta técnica de elicitação, tentamos nos imaginar no lugar do um usu�
 
 | Data | Versão | Descrição | Autor(es) |   
 | :---: | :---: | :---: | :---: |  
-| 10/03/2021 | 1.0 | Criação do documento | [Marcos Raimundo](https://www.github.com/MarcosFloresta) | 
+| 10/03/2021 | 1.0 | Criação do documento | [Marcos Raimundo](https://www.github.com/MarcosFloresta) |
+| 18/03/2021 | 1.1 | Revisão do documento | [Tomás Veloso](https://www.github.com/tomasvelos0/) |

@@ -6,7 +6,9 @@
 
 <!-- ![logo](docs/../img/logo.png) -->
 
-Repositório destinado ao projeto de Requisitos de Software do Grupo 2 
+<p align = "justify">Repositório destinado ao projeto de Requisitos de Software do Grupo 2.</p>
+<br/>
+
 
 ## Equipe
 

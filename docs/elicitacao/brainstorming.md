@@ -1,29 +1,31 @@
 # Brainstorming 
 
+
+<p align = "justify">A técnica de elicitação brainstorming é uma atividade desenvolvida para aproveitar a criatividade dos membros de uma equipe, propondo em uma reunião que os membros sugiram qualquer pensamento ou ideia relacionados ao tema do projeto.</p>
+<br/>
  
 
-A técnica de elicitação brainstorming é uma atividade desenvolvida para aproveitar a criatividade dos membros de uma equipe, propondo em uma reunião que os membros sugiram qualquer pensamento ou ideia relacionados ao tema do projeto.  
+## Metodologia
 
  
-
-# Metodologia 
-
+<p align = "justify">Usamos a plataforma online MindMeister. Dentro do aplicativo os membros do grupo adicionaram suas ideias de possíveis requisitos funcionais e não funcionais do Bike Itaú / tembici. </p>
+<br/>
  
 
-Usamos a plataforma online MindMeister. Dentro do aplicativo os membros do grupo adicionaram suas ideias de possíveis requisitos funcionais e não funcionais do Bike Itaú / tembici.  
+## Brainstorming Bike Itaú
 
  
+<!-- <h5 align = "center">Figura 1 - Mapa Mental<h5/> -->
+<h6 align = "center">Figura 1 - Mapa Mental.</h6>
 
-## Brainstorming Bike Itaú 
-
- 
-
-<!-- ![brainstorming](../img/brainstorming/brainstorming.png) -->
 [![brainstorming](../img/brainstorming/brainstorming.png)](../img/brainstorming/brainstorming.png)
 
+<h6 align = "center">Fonte: Site mindmeister</h6>
+
+
  
 
-# Requisitos Elicitados 
+## Requisitos Elicitados 
 
 | ID | Nome |  
 | :---: | --- |
@@ -47,11 +49,11 @@ Usamos a plataforma online MindMeister. Dentro do aplicativo os membros do grupo
 
 ## Referências  
 
-- https://www.mindmeister.com/ 
+* [Mapeamento mental online](https://www.mindmeister.com/), acessado dia 09 de Março de 2021.
 
 ## Históricos de Revisões  
 
 | Data | Versão | Descrição | Autor(es) |  
 | :---: | :---: | :---: | :---: | 
-| 09/03/2021 | 0.1 | Realização do brainstorming | [Marcos Raimundo](https://www.github.com/MarcosFloresta), Tomás Veloso, Matheus Clemente |  
-| 09/03/2021 | 1.0 | Criação do documento | [Marcos Raimundo](https://www.github.com/MarcosFloresta) | 
+| 09/03/2021 | 0.1 | Realização do brainstorming | [Marcos Raimundo](https://www.github.com/MarcosFloresta), [Tomás Veloso](https://www.github.com/tomasvelos0), [Matheus Clemente](https://github.com/matheusclemente) |  
+| 09/03/2021 | 1.0 | Criação do documento | [Marcos Raimundo](https://www.github.com/MarcosFloresta) |
