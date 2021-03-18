@@ -14,5 +14,4 @@ Rich Picture é um modelo informal, feito na forma de desenho, para analisar o p
 #### Rich Picture
 
 [![RichPicture](../img/RichPicture-Bikeitau.png)](../img/RichPicture-Bikeitau.png)
-
 ## 2. Referências

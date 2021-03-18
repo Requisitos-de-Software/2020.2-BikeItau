@@ -18,7 +18,8 @@ Usamos a plataforma online MindMeister. Dentro do aplicativo os membros do grupo
 
  
 
-![brainstorming](../img/brainstorming/brainstorming.png)
+<!-- ![brainstorming](../img/brainstorming/brainstorming.png) -->
+[![brainstorming](../img/brainstorming/brainstorming.png)](../img/brainstorming/brainstorming.png)
 
  
 
