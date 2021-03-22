@@ -30,7 +30,8 @@
 
 ### Referências
 
-* http://www.matera.com/blog/post/priorizacao-de-requisitos  
+* http://www.matera.com/blog/post/priorizacao-de-requisitos 
+ 
 * [Aprenda a usar a técnica MoSCoW nos projetos da sua agência!](https://rockcontent.com/br/blog/metodo-moscow/), acessado dia 11 de Março de 2021.
 
 ## Histórico de Revisões
