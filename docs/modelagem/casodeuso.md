@@ -1,23 +1,14 @@
-# Modelagem
+# Caso de uso
 
 
-## Histórico de Revisões 
-
-| Data | Versão | Descrição | Autor(es) |
-| :----: | :----: | :----: | :----: |
-| 11/03/2021 | 1.0 | Criação do documento | [Tomás veloso](https://github.com/tomasvelos0) |
-
-## Sumário
-
-[1. Caso de uso](#1-Caso-de-uso)
-
-[2. Itens de Configuração](#2-Diagrama-de-Caso-de-uso)
-
-[3. Referências](#3-Referências)
-
-## 1. Caso de uso
+## Introdução
 
 <p align = "justify">Caso de uso é a especificação dos requisitos, realizado na fase de especificação de requisitos em forma de documentos textuais. São redigidos pelos próprios desenvolvedores do sistema em parceria com os usuários. No caso de uso são identificados os autores e são anotadas as interações que realizam no sistema. Como os autores são diferentes pessoas (ou dispositivos) que interagem com o sistema, o autor representa um papel, e precisa ser específico e significativo, por isso é recomendável representar os autores com substantivos significativos para o contexto do sistema.</p>
+<br/>
+
+## Metodologia
+
+<p align = "justify"> Como o Caso de uso representam as interações do autor com o sistema, a criação do Caso de Uso foi realizada utilizando dois autores (personas levantadas), descrevendo suas perspectivas ao interagirem com o sistema. Assim a persona Maria interagindo com o sistema pela primeira vez (usuário novo) e Yago que é um usuário fidelizado do aplicativo, utilizando diversas vezes e categorizado como um usuário que conhece o sistema. As interações foram levantadas e anotadas em uma tabela que representa o Caso de Uso e de uma forma mais visual as interações dos autores com o sistema foi criado o Diagrama de Caso de uso, utilizando a ferramenta disponível no site whimsical.</p>
 <br/>
 
 | US ID | Autor | Funcionalidade |
@@ -33,12 +24,13 @@
 | US09 | Usuário | Selecionar bicicleta desejada |
 | US10 | Usuário | Inserir código disponível no celular para liberar o uso da bicicleta |
 
-## 1.1. Fluxo de Caso de uso
+## Fluxo de Caso de uso
 
-#### 1.1.1 Fluxo de uso - Login
+#### Fluxo de uso - Login
 
 |  | **Técnica de caso de uso para o Bike Itaú** |  |
 | :--- | :--- | :--- |
+| **Versão:** | 1.0   |  |
 | **Atividade:** | Acessar o Bike Itaú   |  |
 | **Ator:** | Usuário do Bike Itaú  |  |
 | **Pré condição:** |  |  |
@@ -50,10 +42,11 @@
 |  |  1a. O usuário pode acessar também pelo o site do bike Itaú. |  |
 |  | 2a. Se o usuário não lembrar da senha, seleciona a opção de recuperação da senha. |  |
 
-#### 1.1.2 Fluxo de uso - Modelo Geral
+#### Fluxo de uso - Modelo Geral
 
 |  | **Técnica de caso de uso para o Bike Itaú** |  |
 | :--- | :--- | :--- |
+| **Versão:** | 1.0   |  |
 | **Atividade:** | Utilizar a bicicleta do Bike Itaú  |  |
 | **Ator:** | Ciclista do Bike Itaú  |  |
 | **Pré condição:** |  |  |
@@ -74,10 +67,11 @@
 |  |4a. Os Planos de uso podem ser adquiridos pelo aplicativo, site ou posto de  |  |
 
 
-### 1.1.3 Fluxo de uso - Escolha do Plano
+### Fluxo de uso - Escolha do Plano
 
 |  | **Técnica de caso de uso para o Bike Itaú** |  |
 | :--- | :--- | :--- |
+| **Versão:** | 1.0   |  |
 | **Atividade:** | Escolher plano de uso para utilizar as bicicletas do Bike Itaú  |  |
 | **Ator:** | Usuário do Bike Itaú  |  |
 | **Pré condição:** |  |  |
@@ -95,10 +89,11 @@
 |  | 2a. Os Planos de uso podem ser adquiridos pelo aplicativo, site ou posto de autoatendimento. |  |
 |  | 2b. Existe a alternativa de plano por cartão, onde o desbloqueio das bicicletas são feitos pelo cartão. |  |
 
-### 1.1.4 Fluxo de uso - Solicitar Ajuda
+### Fluxo de uso - Solicitar Ajuda
 
 |  | **Técnica de caso de uso para o Bike Itaú** |  |
 | :--- | :--- | :--- |
+| **Versão:** | 1.0   |  |
 | **Atividade:** | Solicitar ajuda do Bike Itaú  |  |
 | **Ator:** | Usuário do Bike Itaú  |  |
 | **Pré condição:** |  |  |
@@ -114,22 +109,52 @@
 
 
 
-## 2. Diagrama de Caso de uso
+## Diagrama de Caso de uso
 
 <p align = "justify">Diagrama de caso de uso é o conjunto de casos em que os autores atuam no sistema. Portanto é um índice gráfico, elementos gráficos simples, de casos de uso (documentos textuais de especificação de requisitos). Um cenário que representa as funções que o autor irá realizar no sistema.
 É apropriado usar diagrama de caso de uso, quando a metodologia de desenvolvimento é voltada para as práticas ágeis e com o foco no cliente, assim adotam a mentalidade de entrega rápida de valor ao cliente. Quando no processo de criação objetiva o usuário no centro dos processos, o autor naquele sistema. Vantajoso para representar requisitos funcionais na perspectiva do usuário do sistema.</p>
 <br/>
 
-#### 2.1. Diagrama de Caso de Uso - Modelo Geral
+#### Diagrama de Caso de Uso - Modelo Geral
+
+<h6 align = "center">Figura 1 - Diagrama de Caso de Uso, Modelo Geral versão 1.0.</h6>
 
 [![Diagrama_de_caso_de_uso_geral](../img/USCasoGeral.png)](../img/USCasoGeral.png)
 
-#### 2.2. Diagrama de Caso de Uso - Usuário Novo
+<h6 align = "center">Fonte: Site whimsical</h6>
+
+
+#### Diagrama de Caso de Uso - Usuário Novo
+
+<h6 align = "center">Figura 2 - Diagrama de Caso de Uso, Usuário Novo versão 1.0.</h6>
 
 [![Diagrama_de_caso_de_uso_usuario_novol](../img/USUsuario_novo.png)](../img/USUsuario_novo.png)
 
-### # 2.3. Diagrama de Caso de Uso - Usuário Fidelizado
+<h6 align = "center">Fonte: Site whimsical</h6>
+
+
+#### Diagrama de Caso de Uso - Usuário Fidelizado
+
+<h6 align = "center">Figura 3 - Diagrama de Caso de Uso, Usuário Fidelizado versão 1.0.</h6>
 
 [![Diagrama_de_caso_de_uso_usuario_fidelizado](../img/USUsuario_fidelizado.png)](../img/USUsuario_fidelizado.png)
 
-## 3. Referências
+<h6 align = "center">Fonte: Site whimsical</h6>
+
+## Referências
+
+* [Whimsical: Think Together](https://whimsical.com/), acessado dia 11 de Março de 2021.
+
+## Bibliografia
+
+>VALENTE, Marco. **Engenharia de Software Moderna**. Princípios e práticas para desenvolvimento de software com produtividade. Belo Horizonte, 10 de fevereiro de 2020.
+
+---
+
+>SOMMERVILLE, Ian. **Engenharia de Software**. 9ª ed. PEARSON, 10 de fevereiro de 2011.
+
+## Histórico de Revisões
+
+| Data | Versão | Descrição | Autor(es) |
+| :----: | :----: | :----: | :----: |
+| 11/03/2021 | 1.0 | Criação do documento | [Tomás veloso](https://github.com/tomasvelos0) |

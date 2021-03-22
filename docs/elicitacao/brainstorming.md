@@ -29,23 +29,23 @@
 
 | ID | Nome |  
 | :---: | --- |
-| #RF01 | Cadastro de novos usuários |  
-| #RF02 | Contratar um plano de utilização |  
-| #RF03 | Login |  
-| #RF04 | Cancelar/Renovar o plano de utilização |  
-| #RF05 | Visualizar viagens já feitas | 
-| #RF06 | Informar possíveis custos adicionais | 
-| #RF07 | Informar pontos de coleta e devolução da bicicleta | 
-| #RF08 | Informar tempo de viagem | 
-| #RF09 | Pedir cartão de ativação | 
-| #RF10 | Buscar bicicletas perto da localização do usuário | 
-| #RF11 | Buscar vagas perto da localização do usuário | 
-| #RF12 | Navegar pelo mapa | 
-| #RF13 | Filtrar navegação pelo mapa entre bicicletas e vagas disponíveis | 
-| #RF14 | Escolher estação para retirada da bicicleta | 
-| #RF15 | Gerar código de retirada | 
-| #RF16 | Ler QR-Code da estação | 
-| #RF17 | Reportar problemas | 
+| RF01 | Cadastro de novos usuários |  
+| RF02 | Contratar um plano de utilização |  
+| RF03 | Login |  
+| RF04 | Cancelar/Renovar o plano de utilização |  
+| RF05 | Visualizar viagens já feitas | 
+| RF06 | Informar possíveis custos adicionais | 
+| RF07 | Informar pontos de coleta e devolução da bicicleta | 
+| RF08 | Informar tempo de viagem | 
+| RF09 | Pedir cartão de ativação | 
+| RF10 | Buscar bicicletas perto da localização do usuário | 
+| RF11 | Buscar vagas perto da localização do usuário | 
+| RF12 | Navegar pelo mapa | 
+| RF13 | Filtrar navegação pelo mapa entre bicicletas e vagas disponíveis | 
+| RF14 | Escolher estação para retirada da bicicleta | 
+| RF15 | Gerar código de retirada | 
+| RF16 | Ler QR-Code da estação | 
+| RF17 | Reportar problemas | 
 
 ## Referências  
 
