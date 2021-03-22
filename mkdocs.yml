@@ -15,6 +15,7 @@ nav:
     - MoSCoW: priorizacao/moscow.md
   - Modelagem:
     - Caso de Uso: modelagem/casodeuso.md
+    - Especificação Suplementar: modelagem/especSuplementar.md
 docs_dir: docs/
 
 theme: 
