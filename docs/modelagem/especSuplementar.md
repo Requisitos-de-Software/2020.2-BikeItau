@@ -13,7 +13,9 @@ complemento para tentar registrar todos os requisitos de um sistema.</p>
 
 ## Escopo
 
-<p align = "justify">O escopo do projeto, desta Especificação Suplementar, é capturar os requisitos não funcionais do aplicativo Bike Itaú, um sistema que disponibiliza bicicletas para o uso em locais públicos, possuindo algumas regras para a utilização.</p>
+<p align = "justify">O escopo do projeto, desta Especificação Suplementar, é capturar os requisitos não funcionais do aplicativo Bike Itaú, um sistema que disponibiliza bicicletas para o uso em locais públicos, possuindo algumas regras para a utilização. Utilizando da meta de qualidade FURPS, acrônimo para Functionality (funcionalidade), Usability (usabilidade),
+reliability (confiabilidade), performace (desempenho) e suportability (facilidade
+de suporte).</p>
 </br>
 
 ## Funcionalidades
@@ -45,32 +47,32 @@ complemento para tentar registrar todos os requisitos de um sistema.</p>
 
 ###  Interface
 
-<p align = "justify">A interface do aplicativo é simplista e intuitiva o que facilita a utilização. Possuindo poucas opções de interação com o sistema, o usuário pode navegar por todo o sistema em pouco tempo.</p>
+<p align = "justify">A interface do aplicativo deve simplista e intuitiva para facilitar a utilização. Possuindo poucas opções de interação com o sistema, o usuário pode navegar por todo o sistema em pouco tempo.</p>
 
 ###  Facilidade de Uso
 
-<p align = "justify">Para utilizar o aplicativo não necessita de um treinamento para os usuários. O usuário ao usar o aplicativo segue um fluxo de etapas que leva até o objetivo final a medida que interage com o sistema. Possuindo 3 opções de idiomas, Português, Espanhol e Inglês.</p></br>
+<p align = "justify">Para utilizar o aplicativo não necessita de um treinamento para os usuários com alguma familiariadade anterior com outras aplicações mobile. O usuário ao usar o aplicativo segue um fluxo de etapas que leva até o objetivo final a medida que interage com o sistema. Deve possuir mais opções de idiomas, Português, Espanhol e Inglês.</p></br>
 
 ## Confiabilidade
 
 ###  Disponibilidade
 
-<p align = "justify">A aplicação deve está disponível durante todo o tempo, portanto qualquer horário do dia o usuário pode usar dos benefícios do aplicativo.</p>
+<p align = "justify">A aplicação deverá estar disponível durante a maior parte do dia, portanto qualquer horário do dia o usuário deve poder usar dos benefícios do aplicativo.</p>
 
 ###  Segurança dos dados
 
-<p align = "justify">Os dados dos usuário são protegidos por sistemas de tecnologias de segurança, por um equipe reponsável e seguindo a Polítca de Privacidade da empresa. Os dados coletados são: Informações de contato, Dados de utilização, Diagnóstico, Identificado­res e Compras.</p></br>
+<p align = "justify">Os dados dos usuário serão protegidos por sistemas de tecnologias de segurança, por um equipe reponsável e seguindo a Polítca de Privacidade da empresa. Os dados coletados dos usuários serão: Informações de contato, Dados de utilização, Diagnóstico, Identificado­res e Compras.</p></br>
 
 ## Desempenho
 
 ### Usuários Simultâneos
 
-<p align = "justify">O sistema é capaz de suportar uma grande quantidade de usuários simultâneos.</p>
+<p align = "justify">O sistema deverá ser capaz de suportar uma grande quantidade de usuários simultâneos.</p>
 
 
 ### Tempo de Resposta
 
-<p align = "justify">O tempo de resposta para as interações do usuário com o sistema é bem rápido, possuindo um tempo de espera de uma ativada para a outro bem pequeno. Portanto o fluxo de um atividade para outra no sistema é bem rápido.</p>
+<p align = "justify">O tempo de resposta para as interações do usuário com o sistema deve ser rápido, possuindo um tempo de espera de uma ativada para a outro bem pequeno. Portanto o fluxo de um atividade para outra no sistema deve ser bem rápido.</p>
 
 ### Uso de recurso
 
@@ -78,11 +80,11 @@ complemento para tentar registrar todos os requisitos de um sistema.</p>
 
 ## Suportabilidade
 
-<p align = "justify">A manutenção do sistema ocorre de forma constante, geralmente 1 vez por mês, fornecendo atualizações para correções de bugs, melhorias de usabilidade e novas funcionalidades. </p></br>
+<p align = "justify">A manutenção do sistema deve ocorrer de forma constante, geralmente 1 vez por mês, para fornecer atualizações, correções de bugs, melhorias de usabilidade e novas funcionalidades. </p></br>
 
 ## Requisitos de Licenciamento
 
-<p align = "justify">Para a utilização do aplicativo não existe nenhum licenciamento, a aplicação é gratuita. O Bike Itaú apresenta Regras gerais de uso, Política de Privacidade e Termo de Uso. </p><br/></br>
+<p align = "justify">Para a utilização do aplicativo não existirá nenhum licenciamento, a aplicação é gratuita. O Bike Itaú apresenta Regras gerais de uso, Política de Privacidade e Termo de Uso. </p><br/></br>
 
 ## Referências
 
