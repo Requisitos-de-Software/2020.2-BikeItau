@@ -14,6 +14,8 @@ nav:
   - Priorização:
     - MoSCoW: priorizacao/moscow.md
   - Modelagem:
+    - Ágil:
+      - História de Usuários: modelagem/agil/historias.md
     - Caso de Uso: modelagem/casodeuso.md
     - Cenários: modelagem/cenarios.md
     - Especificação Suplementar: modelagem/especSuplementar.md
