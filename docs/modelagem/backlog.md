@@ -1,6 +1,6 @@
 # Backlog
 
-No Backlog criamos uma tabela que lista as funcionalidades desejadas de um produto, ou, seja, os requisitos que são esperados ao final do projeto, descritos com uma linguagem simples. O documento cresce e muda à medida que se aprende mais sobe o produto e seus usuários. Para estruturar os Product Backlog nós utilizamos as chamadas histórias de usuário, elas contem a descrição detalhada dos requisitos de cada solicitação a ser implementada. 
+<p align = "justify"> No Backlog criamos uma tabela que lista as funcionalidades desejadas de um produto, ou, seja, os requisitos que são esperados ao final do projeto, descritos com uma linguagem simples. O documento cresce e muda à medida que se aprende mais sobe o produto e seus usuários. Para estruturar os Product Backlog nós utilizamos as chamadas histórias de usuário, elas contem a descrição detalhada dos requisitos de cada solicitação a ser implementada. </p>
 
 ## Backlog e Histórias de Usuário
 
@@ -44,3 +44,4 @@ No Backlog criamos uma tabela que lista as funcionalidades desejadas de um produ
 | :---: | :---: | :---: | :---: |
 | 30/03/2021 | 1.0 | Criação do documento | [Marcos Raimundo](https://github.com/MarcosFloresta) |
 | 30/03/2021 | 1.1 | Adição da tabela de backlog | [Marcos Raimundo](https://github.com/MarcosFloresta) |
+| 02/04/2021 | 1.2 | Correção da formatação do texto | [Marcos Raimundo](https://github.com/MarcosFloresta) |
