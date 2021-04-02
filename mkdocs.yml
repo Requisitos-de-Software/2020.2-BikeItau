@@ -16,6 +16,7 @@ nav:
   - Modelagem:
     - Ágil:
       - História de Usuários: modelagem/agil/historias.md
+    - Backlog : modelagem/backlog.md
     - Caso de Uso: modelagem/casodeuso.md
     - Cenários: modelagem/cenarios.md
     - Especificação Suplementar: modelagem/especSuplementar.md
