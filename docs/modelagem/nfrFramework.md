@@ -1,9 +1,9 @@
 # NFR Framework
 
 ## Introdução
-<div style="text-align: justify">"O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Funcionais. Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão. Tais características incluem Requisitos Não-funcionais, Requisitos funcionais, prioridades e carga detrabalho. Esses fatores determinam a escolha de alternativas de desenvolvimento para umdeterminado sistema (CHUNG et al., 2000).
+<p align = "justify"> "O NFR Framework é uma abordagem para representar e analisar Requisitos Não-Funcionais. Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão. Tais características incluem Requisitos Não-funcionais, Requisitos funcionais, prioridades e carga detrabalho. Esses fatores determinam a escolha de alternativas de desenvolvimento para umdeterminado sistema (CHUNG et al., 2000).
 
-O Framework utiliza o conceito de *softgoal*: um objetivo que não possui uma clara definição nem critérios de satisfação precisos. Os *softgoals* são utilizados para representar Requisitos Não-Funcionais e podem estar interrelacionados, expressando a influência de um *softgoal* em outro. O Framework também possui um método de análise qualitativa para decidir os status dos *softgoals*, dado que outros *softgoals* relacionados foram ou não satisfeitos (CHUNG et al., 2000)" (SILVA, 2019)
+O Framework utiliza o conceito de *softgoal*: um objetivo que não possui uma clara definição nem critérios de satisfação precisos. Os *softgoals* são utilizados para representar Requisitos Não-Funcionais e podem estar interrelacionados, expressando a influência de um *softgoal* em outro. O Framework também possui um método de análise qualitativa para decidir os status dos *softgoals*, dado que outros *softgoals* relacionados foram ou não satisfeitos (CHUNG et al., 2000)" (SILVA, 2019) </p>
 
 ## Símbolos
 
