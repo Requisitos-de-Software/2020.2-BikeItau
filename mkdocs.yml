@@ -21,6 +21,7 @@ nav:
     - Cenários: modelagem/cenarios.md
     - Especificação Suplementar: modelagem/especSuplementar.md
     - Léxicos: modelagem/lexicos.md
+    - NFR Framework: modelagem/nfrFramework.md
 docs_dir: docs/
 
 theme: 
