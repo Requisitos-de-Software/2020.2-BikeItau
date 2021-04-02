@@ -13,16 +13,16 @@
 
 | US ID | Autor | Funcionalidade |
 | :----: | :----: | :---------: |
-| US01 | Usuário | Realizar login no aplicativo |
-| US02 | Usuário | Fazer logout do perfil no aplicativo |
-| US03 | Usuário | Recuperar senha |
-| US04 | Usuário | Selecionar cidade (praça) |
-| US05 | Usuário | Escolher um plano (categoria de uso) |
-| US06 | Usuário | Verificar com mais detalhes informações sobre o plano de uso |
-| US07 | Usuário | Realizar pagamento |
-| US08 | Usuário | Observar em um mapa sua localização e todas as bicicletas disponíveis |
-| US09 | Usuário | Selecionar bicicleta desejada |
-| US10 | Usuário | Inserir código disponível no celular para liberar o uso da bicicleta |
+| UC01 | Usuário | Realizar login no aplicativo |
+| UC02 | Usuário | Fazer logout do perfil no aplicativo |
+| UC03 | Usuário | Recuperar senha |
+| UC04 | Usuário | Selecionar cidade (praça) |
+| UC05 | Usuário | Escolher um plano (categoria de uso) |
+| UC06 | Usuário | Verificar com mais detalhes informações sobre o plano de uso |
+| UC07 | Usuário | Realizar pagamento |
+| UC08 | Usuário | Observar em um mapa sua localização e todas as bicicletas disponíveis |
+| UC09 | Usuário | Selecionar bicicleta desejada |
+| UC10 | Usuário | Inserir código disponível no celular para liberar o uso da bicicleta |
 
 ## Fluxo de Caso de uso
 
