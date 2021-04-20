@@ -2,11 +2,11 @@
 
 ## Indrodução
 
-A verificação do RichPicture tem como objetivo principal a detecção de defeitos antes de encaminhar à validação com o cliente. Para esse fim, um checklist mostrou-se mais prático e eficaz para a verificação. O checklist tem questões comuns para os modelos a serem documentados e avaliados e busca capturar as questões relevantes.
+<p align = "justify">A verificação do RichPicture tem como objetivo principal a detecção de defeitos antes de encaminhar à validação com o cliente. Para esse fim, um checklist mostrou-se mais prático e eficaz para a verificação. O checklist tem questões comuns para os modelos a serem documentados e avaliados e busca capturar as questões relevantes.</p>
 
 ## Metodologia
 
-Para analisar o RichPicture, foram levantadas questões a respeito de aspectos importantes para a modelagem de requisitos com cenários. As questões serão usadas como critérios de sucesso e só há duas respostas possíveis pra essas questões: Sim, sendo representado pelo símbolo de :heavy_check_mark: e indicará sucesso, e não, sendo representado por um :x:, que indicará falha. 
+<p align = "justify">Para analisar o RichPicture, foram levantadas questões a respeito de aspectos importantes para a modelagem de requisitos com cenários. As questões serão usadas como critérios de sucesso e só há duas respostas possíveis pra essas questões: Sim, sendo representado pelo símbolo de :heavy_check_mark: e indicará sucesso, e não, sendo representado por um :x:, que indicará falha. </p>
 
 ## Questões, Justificativas e Checklist
 
@@ -44,13 +44,13 @@ Para analisar o RichPicture, foram levantadas questões a respeito de aspectos i
 
 ## Conclusão
 
-O RichPicture pode ser avaliado como **Bom** de acordo com os critérios de qualidade estabelecidos no projeto. Porém um novo Rich Picture refatorado é nescessário para receber 100% em todos os criérios de aceitação. 
+<p align = "justify">O RichPicture pode ser avaliado como **Bom** de acordo com os critérios de qualidade estabelecidos no projeto. Porém um novo Rich Picture refatorado é nescessário para receber 100% em todos os criérios de aceitação. </p>
 
 ## Referências
 
 HOWARD, Andrew Monk. Steve." The Rich Picture: A Tool for Reasoning About Work Context." Interactions.
 
-HORAN, Pat.Using Rich Pictures in Information System Teaching. Disponível no [link]http://ceur-ws.org/Vol-72/039%20Horan%20SSM.pdf). 
+HORAN, Pat.Using Rich Pictures in Information System Teaching. Disponível no [link](http://ceur-ws.org/Vol-72/039%20Horan%20SSM.pdf). 
 
 Leadership for change. Complexity and rich pictures. Disponível no [link](http://leadershipforchange.org.uk/wp-content/uploads/Complexity-and-rich-pictures.pdf). 
 
