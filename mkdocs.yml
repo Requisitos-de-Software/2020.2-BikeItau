@@ -22,6 +22,8 @@ nav:
     - Especificação Suplementar: modelagem/especSuplementar.md
     - Léxicos: modelagem/lexicos.md
     - NFR Framework: modelagem/nfrFramework.md
+  - Verificação:
+    - RichPicture: verificao/verificacao_richpicture.md
 docs_dir: docs/
 
 theme: 
