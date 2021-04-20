@@ -23,7 +23,7 @@ nav:
     - Léxicos: modelagem/lexicos.md
     - NFR Framework: modelagem/nfrFramework.md
   - Verificação:
-    - RichPicture: verificao/verificacao_richpicture.md
+    - RichPicture: verificacao/verificacao_richpicture.md
 docs_dir: docs/
 
 theme: 
