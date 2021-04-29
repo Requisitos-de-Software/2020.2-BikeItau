@@ -24,6 +24,8 @@ nav:
     - NFR Framework: modelagem/nfrFramework.md
   - Verificação:
     - RichPicture: verificacao/verificacao_richpicture.md
+    - NFR Framework: modelagem/nfrFrameworkVerificacao.md
+
 docs_dir: docs/
 
 theme: 
@@ -37,4 +39,13 @@ theme:
     favicon: material/bicycle
   features:
     - navigation.tracking
+
+markdown_extensions:
+  - admonition
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
     
