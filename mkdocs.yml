@@ -24,7 +24,8 @@ nav:
     - NFR Framework: modelagem/nfrFramework.md
   - Verificação:
     - RichPicture: verificacao/verificacao_richpicture.md
-    - NFR Framework: modelagem/nfrFrameworkVerificacao.md
+    - NFR Framework: verificacao/nfrFrameworkVerificacao.md
+    - Léxicos: verificacao/verificacao_lexico.md
 
 docs_dir: docs/
 
@@ -42,6 +43,7 @@ theme:
 
 markdown_extensions:
   - admonition
+  - markdown.extensions.extra
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
