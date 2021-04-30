@@ -18,20 +18,20 @@
 | | | US10 - Eu, como usuário do sistema, gostaria de solicitar reembolso em caso de cobranças indevidas. | 
 | | | US11 - Eu, como desenvolvedor, gostaria de disponibilizar promoções para os meus usuários.|
 | | | US12 - Eu, como usuário do sistema, desejo observar promoções ativas no atual momento. |
-| EP03 - Navegação | FE03 - Mapa | Eu, como usuário, desejo visualizar o mapa de disponibilidade. |
-| | | ES13 - Eu, como usuário, gostaria de ser capaz de acessar outras regiões a diferentes distâncias de onde me encontro para saber se há bicicletas disponíveis naqueles locais. |
-| | FE04 - Localização | ES14 - Eu, como usuário, desejo ter a localização das bicicletas no mapa. |
-| | | US14 - Eu, como usuário, gostaria de saber qual a minha localização atual. |
-| | | US15 - Eu, como usuário, desejo ter a localização das vagas no mapa. |
-| EP04 - Bikes | FE05 - Aluguel | US16 - Eu, como usuário, desejo realizar o desbloqueio de uma bicicleta. |
-| | | US17 - Eu, como usuário, gostaria de devolver a bicicleta após o uso. |
-| | | US18 - Eu, como usuário, gostaria de receber informações de valor cobrado, tempo, distância, entre outras informações. |
-| | | US19 - Eu, como usuário, gostaria de compartilhar a minha viagem. |
-| | FE05 - Ajuda | US20 - Eu, como usuário, gostaria de ter acesso ao suporte para apoio em um imprevisto durante o uso do aplicativo. |
-| | | US21 - Eu, como usuário, gostaria de acessar a central de ajuda. |
-| | | US22 - Eu, como usuário, gostaria de reportar uma bicicleta com defeito. |
-| | | US23 - Eu, como usuário, gostaria de reportar uma vaga com defeito. |
-| | | US24 - Eu, como usuário, desejo ter acesso aos termos de uso da aplicação. |
+| EP03 - Navegação | FE03 - Mapa | US13 - Eu, como usuário, desejo visualizar o mapa de disponibilidade. |
+| | | US14 - Eu, como usuário, gostaria de ser capaz de acessar outras regiões a diferentes distâncias de onde me encontro para saber se há bicicletas disponíveis naqueles locais. |
+| | FE04 - Localização | US15 - Eu, como usuário, desejo ter a localização das bicicletas no mapa. |
+| | | US16 - Eu, como usuário, gostaria de saber qual a minha localização atual. |
+| | | US17 - Eu, como usuário, desejo ter a localização das vagas no mapa. |
+| EP04 - Bikes | FE05 - Aluguel | US18 - Eu, como usuário, desejo realizar o desbloqueio de uma bicicleta. |
+| | | US19 - Eu, como usuário, gostaria de devolver a bicicleta após o uso. |
+| | | US20 - Eu, como usuário, gostaria de receber informações de valor cobrado, tempo, distância, entre outras informações. |
+| | | US21 - Eu, como usuário, gostaria de compartilhar a minha viagem. |
+| | FE05 - Ajuda | US22 - Eu, como usuário, gostaria de ter acesso ao suporte para apoio em um imprevisto durante o uso do aplicativo. |
+| | | US23 - Eu, como usuário, gostaria de acessar a central de ajuda. |
+| | | US24 - Eu, como usuário, gostaria de reportar uma bicicleta com defeito. |
+| | | US25 - Eu, como usuário, gostaria de reportar uma vaga com defeito. |
+| | | US26 - Eu, como usuário, desejo ter acesso aos termos de uso da aplicação. |
 
 ## Referências
   
@@ -45,3 +45,4 @@
 | 30/03/2021 | 1.0 | Criação do documento | [Marcos Raimundo](https://github.com/MarcosFloresta) |
 | 30/03/2021 | 1.1 | Adição da tabela de backlog | [Marcos Raimundo](https://github.com/MarcosFloresta) |
 | 02/04/2021 | 1.2 | Correção da formatação do texto | [Marcos Raimundo](https://github.com/MarcosFloresta) |
+| 15/04/2021 | 1.3 | Correção da numeração das histórias | [Matheus Clemente](https://github.com/matheusclemente) |
