@@ -1,9 +1,9 @@
-# Backlog
+# Verificação de Backlog
 ## Introdução
-O presente documento visa verificar o artefato de Backlog do projeto, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos.
+<p align = "justify">O presente documento visa verificar o artefato de Backlog do projeto, afim de procurar quaisquer erros no modelo em termos de notação, processo ou procedimentos.</p>
 
 ## Metodologia
-As histórias de usuário serão verificadas através de uma checklist, com atributos definidos à partir do acrônimo INVEST, o qual foi criado com o intuito de qualificar uma história de usuário de qualidade. Os atributos são:
+<p align = "justify">As histórias de usuário foram verificadas através de uma checklist, com atributos definidos à partir do acrônimo INVEST, o qual foi criado com o intuito de qualificar uma história de usuário de qualidade. Os atributos são:</p>
 
 - **I - Independent (independente):** A história deve poder ser completada pelo time, sem depender de um time externo.
 - **N - Negociable (negociável):** A história não deve ser muito estrita ou específica, de forma a oferecer liberdade de implementação.
@@ -13,8 +13,8 @@ As histórias de usuário serão verificadas através de uma checklist, com atri
 - **T - Testable (testável):** A história deve ter um critério de aceitação claro, para que seja facilmente testável.
  
 ## Checklist
-A seguir é apresentada a tabela com a checklist de verificação para cada história de usuário do Backlog
-❌✔
+<p align = "justify">A seguir é apresentada a tabela com a checklist de verificação para cada história de usuário do Backlog.</p>
+
 |  US  | I | N | V | E | S | T |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: 
 | US01 | ✔ | ✔ | ✔ | ❌ | ✔ | ❌ |
@@ -52,4 +52,5 @@ FRANCINO, Yvette. An agile leader's guide to writing user stories. TestBeacon. D
 | Data | Versão | Descrição | Autor(es) |
 | :---: | :---: | :---: | :---: |
 | 15/04/2021 | 0.1 | Documento base | [Matheus Clemente](https://github.com/matheusclemente) |
-| 27/04/2021 | 1.0 | Verificação de casos de uso | [Matheus Clemente](https://github.com/matheusclemente) |
+| 27/04/2021 | 1.0 | Verificação de histórias de usuário | [Matheus Clemente](https://github.com/matheusclemente) |
+| 01/05/2021 | 1.1 | Correções de formatação | [Matheus Clemente](https://github.com/matheusclemente) |
