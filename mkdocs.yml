@@ -23,7 +23,7 @@ nav:
     - Léxicos: modelagem/lexicos.md
     - NFR Framework: modelagem/nfrFramework.md
   - Verificação:
-    - Casos de Uso: verificacao/verificacao_casos_uso
+    - Casos de Uso: verificacao/verificacao_casos_uso.md
     - RichPicture: verificacao/verificacao_richpicture.md
     - NFR Framework: verificacao/nfrFrameworkVerificacao.md
     - Léxicos: verificacao/verificacao_lexico.md
