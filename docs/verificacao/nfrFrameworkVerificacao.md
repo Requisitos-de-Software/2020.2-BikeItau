@@ -9,7 +9,7 @@
 
 ## Metodologia
 
-<p align = "justify"> Para cumprir o principal objetivo dessa atividade, a verificação do NFR, foi realizado um método de levantamento de Questão, para atestar a qualidade e objetivar o que pretende que se cumpra, e justificar o motivo dessas questões. Formando um quadro para as Questões e suas Justificativas e depois por método de verificação por Inspeções, uma forma de checagem, e por meio de checklist para verificar se determinada questão, levantada e justificada como critério de verificação e qualidade, cumpre com o esperado ou se pode ser melhorado de alguma forma.</p>
+<p align = "justify"> Para cumprir o principal objetivo dessa atividade, a verificação do NFR, foi realizado um método de levantamento de Questão, para atestar a qualidade e objetivar o que pretende que se cumpra, e justificar o motivo dessas questões. Formando um quadro para as Questões e suas Justificativas e depois por método de verificação por Inspeções, uma forma de checagem, e por meio de checklist para verificar se determinada questão, levantada e justificada como critério de verificação e qualidade, cumpre com o esperado, marcando com ( :heavy_check_mark: ) ou se pode ser melhorado de alguma forma, destacando com ( :x: ).</p>
 <br/>
 
 ## NFR Indentificação
