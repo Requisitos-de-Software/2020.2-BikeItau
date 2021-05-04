@@ -6,7 +6,7 @@
 
 ## Metodologia
 
-<p align = "justify">Para analisar o RichPicture, foram levantadas questões a respeito de aspectos importantes para a modelagem de requisitos com cenários. As questões serão usadas como critérios de sucesso e só há duas respostas possíveis pra essas questões: Sim, sendo representado pelo símbolo de :heavy_check_mark: e indicará sucesso, e não, sendo representado por um :x:, que indicará falha. </p>
+<p align = "justify" markdown="1">Para analisar o RichPicture, foram levantadas questões a respeito de aspectos importantes para a modelagem de requisitos com cenários. As questões serão usadas como critérios de sucesso e só há duas respostas possíveis pra essas questões: Sim, sendo representado pelo símbolo de :heavy_check_mark: e indicará sucesso, e não, sendo representado por um :x:, que indicará falha. </p>
 
 ## Questões, Justificativas e Checklist
 
