@@ -27,7 +27,7 @@
 | | | US19 - Eu, como usuário, gostaria de devolver a bicicleta após o uso. |
 | | | US20 - Eu, como usuário, gostaria de receber informações de valor cobrado, tempo, distância, entre outras informações. |
 | | | US21 - Eu, como usuário, gostaria de compartilhar a minha viagem. |
-| | FE05 - Ajuda | US22 - Eu, como usuário, gostaria de ter acesso ao suporte para apoio em um imprevisto durante o uso do aplicativo. |
+| | FE06 - Ajuda | US22 - Eu, como usuário, gostaria de ter acesso ao suporte para apoio em um imprevisto durante o uso do aplicativo. |
 | | | US23 - Eu, como usuário, gostaria de acessar a central de ajuda. |
 | | | US24 - Eu, como usuário, gostaria de reportar uma bicicleta com defeito. |
 | | | US25 - Eu, como usuário, gostaria de reportar uma vaga com defeito. |
