@@ -16,3 +16,8 @@
 ## Apresentação 4
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cIRvLNGk-NM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Apresentação 6
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GGAGEMSoOm8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
